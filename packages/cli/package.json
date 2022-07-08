@@ -1,5 +1,5 @@
 {
-  "name": "jsjupyter",
+  "name": "jspole",
   "version": "3.0.0",
   "description": "",
   "files": [
@@ -17,14 +17,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsjupyter/local-client": "^3.0.0"
+    "@jspole/local-client": "^3.0.0"
   },
   "devDependencies": {
-    "@jsjupyter/local-api": "^3.0.0",
+    "@jspole/local-api": "^3.0.0",
     "@types/node": "^18.0.3",
     "commander": "^9.3.0",
     "esbuild": "0.8.26",
     "typescript": "^4.7.4"
   },
-  "gitHead": "06e0f1256d616ef3e8a5fe213d952f69ae27d80f"
+  "gitHead": "e58840a4aa1b28c5824bd24dcd5c5a597559a387"
 }
