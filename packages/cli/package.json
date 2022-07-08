@@ -1,6 +1,6 @@
 {
   "name": "jsjupyter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "files": [
     "dist"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsjupyter/local-client": "^1.0.0"
+    "@jsjupyter/local-client": "^2.0.0"
   },
   "devDependencies": {
-    "@jsjupyter/local-api": "^1.0.0",
+    "@jsjupyter/local-api": "^2.0.0",
     "@types/node": "^18.0.3",
     "commander": "^9.3.0",
     "esbuild": "0.8.26",
