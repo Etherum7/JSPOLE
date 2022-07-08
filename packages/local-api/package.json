@@ -2,7 +2,9 @@
   "name": "@jsjupyter/local-api",
   "version": "1.0.0",
   "description": "",
-  "publishConfig": {"access": "public"},
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist"
   ],
@@ -21,9 +23,9 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
+    "@jsjupyter/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.18.1",
-    "http-proxy-middleware": "^2.0.6",
-    "@jsjupyter/local-client": "^0.1.0"
+    "http-proxy-middleware": "^2.0.6"
   }
 }
