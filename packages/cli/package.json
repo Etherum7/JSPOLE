@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsjupyter/local-client":"^0.1.0"
+    "@jsjupyter/local-client":"^1.0.0"
   },
   "devDependencies": {
     "@jsjupyter/local-api": "^1.0.0",
