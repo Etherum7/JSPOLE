@@ -1,6 +1,6 @@
 {
   "name": "jspole",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "",
   "files": [
     "dist"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jspole/local-client": "^3.0.0"
+    "@jspole/local-client": "^3.1.0"
   },
   "devDependencies": {
-    "@jspole/local-api": "^3.0.0",
+    "@jspole/local-api": "^3.1.0",
     "@types/node": "^18.0.3",
     "commander": "^9.3.0",
     "esbuild": "0.8.26",

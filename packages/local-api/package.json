@@ -1,6 +1,6 @@
 {
   "name": "@jspole/local-api",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -23,7 +23,7 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "@jspole/local-client": "^3.0.0",
+    "@jspole/local-client": "^3.1.0",
     "cors": "^2.8.5",
     "express": "^4.18.1",
     "http-proxy-middleware": "^2.0.6"
